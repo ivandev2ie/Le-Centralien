@@ -8,11 +8,8 @@
    CONFIGURATION
    ========================================================= */
 
-// Mets ici ton vrai lien Jotform.
-// Exemple :
-// const JOTFORM_URL = "https://form.jotform.com/XXXXXXXXXXXXXXX";
-
-const JOTFORM_URL = "";
+// Lien du formulaire de réservation Jotform.
+const JOTFORM_URL = "https://form.jotform.com/262664626508060";
 
 
 /* =========================================================
